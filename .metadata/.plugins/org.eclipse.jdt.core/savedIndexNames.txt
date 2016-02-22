@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/Users/supwin_mbp002/github_third/CodingInterview/.metadata/.plugins/org.eclipse.jdt.core
