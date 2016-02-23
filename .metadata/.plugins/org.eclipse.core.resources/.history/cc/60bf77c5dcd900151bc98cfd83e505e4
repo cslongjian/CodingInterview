@@ -1,0 +1,18 @@
+
+public class ArrayString {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("----------启动Java版本的编码----------");
+		
+		System.out.println("3.给定两个字符串，确定其中一个字符串重新排列后，是否可以变为另一个字符串不是变位词");
+		String str3_1 = "abcde";
+		String str3_2 = "acbde";
+		
+		
+	}
+
+}

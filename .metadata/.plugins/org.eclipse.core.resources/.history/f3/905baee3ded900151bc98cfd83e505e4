@@ -22,6 +22,7 @@ public class ArrayString {
 		ChekcSameString(str3_1, str3_2);
 		
 	}
+
 	
 	public static void ChekcSameString(String str1, String str2)
 	{
